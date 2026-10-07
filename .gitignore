@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore Gradle project-specific cache directory
 .gradle
 
@@ -6,3 +7,23 @@ build
 
 # Ignore Kotlin plugin data
 .kotlin
+=======
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+>>>>>>> 7326427d1d1f3deef3f82de3846a9fedc9c948f9
